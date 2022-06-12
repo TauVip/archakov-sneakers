@@ -6,4 +6,4 @@ import App from './App'
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(<App />)
 
-// #2: React Sneakers - создаем простой интернет-магазин (junior) | 1:03:51 / 2:29:14
+// #4: React Sneakers - создаем простой интернет-магазин (junior) | 1:27:33 / 2:51:59
